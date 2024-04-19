@@ -1,5 +1,6 @@
 # Obsidian web clipper chrome extension
-(Obsidian web clipper bookmarklet)[https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3] rebuilt as chrome extension
+*[Obsidian web clipper bookmarklet](https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3) rebuilt as chrome extension.*
+
 This extention is just a repackaging of amazing work from @kepano so all credits to him. This is born out of my necessity as I use Arc and it does not support Bookmarklet. 
 
 Bugs 
